@@ -141,7 +141,7 @@ A collection of academic and independent projects demonstrating practical applic
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Sufyanb234@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-B86C4B?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
