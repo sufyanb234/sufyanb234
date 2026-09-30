@@ -55,8 +55,9 @@
 
 ### Python Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-FFF1DC?style=flat-square&logo=pandas&logoColor=493126)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-C68B59?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FFF1DC?style=flat-square&logo=numpy&logoColor=493126)
+![Pandas](https://img.shields.io/badge/Pandas-C68B59?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F2D4AD?style=flat-square&logoColor=493126)
 
 ### Databases
 
@@ -120,6 +121,8 @@ A collection of academic and independent projects demonstrating practical applic
 
 ## Connect With Me
 
+<br/>
+
 <p align="center">
 
 <a href="https://github.com/sufyanb234">
@@ -128,26 +131,33 @@ A collection of academic and independent projects demonstrating practical applic
     alt="GitHub"
   />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/muhammad-sufyan-632968343/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-B86C4B?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-C68B59?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
+  />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-B86C4B?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
   />
 </a>
 
 </p>
 
-<br/>
-
 <!-- =============================================== -->
-<!--               INVERTED FOOTER BANNER            -->
+<!--                 INVERTED FOOTER                 -->
 <!-- =============================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=F2D4AD&text=Sufyan%20Baig&fontColor=493126&fontSize=32&fontAlign=50&fontAlignY=75&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=F2D4AD"
     width="100%"
-    alt="Sufyan Baig Footer Banner"
+    alt="Beige Footer Banner"
   />
 </p>
