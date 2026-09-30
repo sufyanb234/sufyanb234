@@ -1,355 +1,153 @@
 
-# Hi there, I'm Sufyan Baig! 👋
+<!-- =============================================== -->
+<!--                  HEADER BANNER                  -->
+<!-- =============================================== -->
 
-<!-- Beige Theme Header Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E8DCCB&text=Sufyan%20Baig&fontColor=3D332B&fontSize=46&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Analytics%20%7C%20Aspiring%20Data%20Scientist&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=F2D4AD&text=Sufyan%20Baig&fontColor=493126&fontSize=46&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Analytics%20%7C%20Aspiring%20Data%20Scientist&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn"
     width="100%"
     alt="Sufyan Baig Header"
   />
 </p>
 
 <!-- Animated Introduction -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=B69B7D&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Aspiring+Data+Scientist;Turning+Data+Into+Meaningful+Insights"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C68B59&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Aspiring+Data+Scientist;Turning+Data+Into+Meaningful+Insights"
+    alt="Typing Introduction"
   />
 </p>
 
 <br/>
 
-## 🚀 About Me
+<!-- =============================================== -->
+<!--                    ABOUT ME                     -->
+<!-- =============================================== -->
 
-I'm **Sufyan Baig**, a Computer Science student specializing in **Data Analytics** at **Asia Pacific University of Technology & Innovation (APU)** in Kuala Lumpur, Malaysia.
+## About Me
 
-I'm passionate about transforming raw data into meaningful insights through **data analysis, statistical exploration, visualization, and database management**.
-
-My technical interests revolve around **Python, SQL, PostgreSQL, Power BI, Excel, and SAS**, with a growing focus on Data Science and Machine Learning.
-
-I enjoy working with real-world datasets, identifying patterns, building interactive dashboards, and solving analytical problems through structured, data-driven approaches.
-
-Currently, I'm strengthening my technical foundation through university coursework and independent projects while working towards a professional career in **Data Science and Analytics**.
-
-> 💡 *"Data becomes valuable when it helps us understand, decide, and improve."*
-
-- 📊 **Data Analytics:** Data Cleaning, Exploration, Visualization & Reporting
-- 🐍 **Programming:** Python, SQL & C
-- 🗄️ **Databases:** PostgreSQL, MySQL & pgAdmin
-- 📈 **Business Intelligence:** Power BI, Excel & SAS
-- 🧠 **Interests:** Data Science, Machine Learning & Artificial Intelligence
-- 🎓 **Education:** BSc (Hons) Computer Science (Data Analytics)
-- 🏫 **University:** Asia Pacific University of Technology & Innovation
-- 📍 **Location:** Kuala Lumpur, Malaysia
-- 🌱 **Currently Improving:** Python, Advanced SQL, Power BI & Statistics
-- 🎯 **Career Goal:** Data Scientist
-- 💼 **Open to:** Data Analytics / Data Science Internship Opportunities
-- 🔗 **LinkedIn:** [Muhammad Sufyan](https://www.linkedin.com/in/muhammad-sufyan-632968343/)
+- **Education:** Computer Science undergraduate specializing in Data Analytics at Asia Pacific University (APU), Malaysia.
+- **Technical Skills:** Python, SQL, PostgreSQL, Power BI, Excel, and SAS.
+- **Focus Areas:** Data Analysis, Data Visualization, Database Management, and Business Intelligence.
+- **Career Objective:** Applying data-driven approaches to solve real-world problems while developing expertise in Data Science.
 
 ---
 
-## 🛠️ Technical Skills
+<!-- =============================================== -->
+<!--                  TECHNICAL STACK                -->
+<!-- =============================================== -->
 
-### 💻 Programming & Query Languages
+## Technical Stack
 
-![Python](https://img.shields.io/badge/Python-E8DCCB?style=flat-square&logo=python&logoColor=3D332B)
-![SQL](https://img.shields.io/badge/SQL-B69B7D?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-D4C3AE?style=flat-square&logo=c&logoColor=3D332B)
+### Programming & Query Languages
 
-### 📊 Data Analytics & Visualization
+![Python](https://img.shields.io/badge/Python-FFF1DC?style=flat-square&logo=python&logoColor=493126)
+![SQL](https://img.shields.io/badge/SQL-C68B59?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-F2D4AD?style=flat-square&logo=c&logoColor=493126)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-E8DCCB?style=flat-square&logo=googlesheets&logoColor=3D332B)
-![Power BI](https://img.shields.io/badge/Power_BI-B69B7D?style=flat-square&logo=powerbi&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-D4C3AE?style=flat-square&logoColor=3D332B)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E8DCCB?style=flat-square&logo=python&logoColor=3D332B)
+### Data Analytics & Business Intelligence
 
-### 🐍 Python Data Tools
+![Power BI](https://img.shields.io/badge/Power_BI-FFF1DC?style=flat-square&logo=powerbi&logoColor=493126)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-C68B59?style=flat-square&logo=googlesheets&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-F2D4AD?style=flat-square&logoColor=493126)
 
-![Pandas](https://img.shields.io/badge/Pandas-B69B7D?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-E8DCCB?style=flat-square&logo=jupyter&logoColor=3D332B)
+### Python Libraries
 
-### 🗄️ Databases
+![Pandas](https://img.shields.io/badge/Pandas-FFF1DC?style=flat-square&logo=pandas&logoColor=493126)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-C68B59?style=flat-square&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E8DCCB?style=flat-square&logo=postgresql&logoColor=3D332B)
-![MySQL](https://img.shields.io/badge/MySQL-B69B7D?style=flat-square&logo=mysql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-D4C3AE?style=flat-square&logo=postgresql&logoColor=3D332B)
+### Databases
 
-### 🧰 Development Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF1DC?style=flat-square&logo=postgresql&logoColor=493126)
+![MySQL](https://img.shields.io/badge/MySQL-C68B59?style=flat-square&logo=mysql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-F2D4AD?style=flat-square&logo=postgresql&logoColor=493126)
 
-![Git](https://img.shields.io/badge/Git-E8DCCB?style=flat-square&logo=git&logoColor=3D332B)
-![GitHub](https://img.shields.io/badge/GitHub-3D332B?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-B69B7D?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-D4C3AE?style=flat-square&logo=linux&logoColor=3D332B)
+### Development Tools
 
----
-
-## 📂 Featured Projects
-
-### 🚚 Supply Chain Shipping Delay Analysis
-
-**Identifying Key Drivers of Shipping Delays: A Data-Driven Supply Chain Analysis**
-
-An academic research project focused on examining the factors contributing to shipping delays through supply chain data analysis.
-
-Using the DataCo Supply Chain Dataset, the project involves data preprocessing, exploratory analysis, and developing interactive Power BI dashboards to examine operational patterns.
-
-**Tools & Technologies**
-
-![Power BI](https://img.shields.io/badge/Power_BI-E8DCCB?style=flat-square&logo=powerbi&logoColor=3D332B)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-B69B7D?style=flat-square&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-D4C3AE?style=flat-square&logoColor=3D332B)
-
-**Key Areas**
-- Shipping delay analysis
-- Product category analysis
-- Department performance
-- Geographic analysis
-- Customer and order patterns
-- Interactive dashboard development
+![Git](https://img.shields.io/badge/Git-FFF1DC?style=flat-square&logo=git&logoColor=493126)
+![GitHub](https://img.shields.io/badge/GitHub-493126?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-C68B59?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F2D4AD?style=flat-square&logo=jupyter&logoColor=493126)
+![Linux](https://img.shields.io/badge/Linux-FFF1DC?style=flat-square&logo=linux&logoColor=493126)
 
 ---
 
-### 🎵 Billboard Hot 100 SQL Analysis
+<!-- =============================================== -->
+<!--                ACADEMIC FOUNDATION              -->
+<!-- =============================================== -->
 
-A SQL-focused data analytics project exploring music data using PostgreSQL.
+## Academic Foundation
 
-The project uses Billboard Hot 100 datasets to practice relational database management, SQL querying, and exploratory analysis.
+**BSc (Hons) Computer Science (Data Analytics)** | Asia Pacific University of Technology & Innovation (APU), Malaysia.
 
-**Tools & Technologies**
+### Level 1
 
-![SQL](https://img.shields.io/badge/SQL-E8DCCB?style=flat-square&logo=postgresql&logoColor=3D332B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B69B7D?style=flat-square&logo=postgresql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-D4C3AE?style=flat-square&logoColor=3D332B)
+Networking • Databases • Python • C Programming • Systems Software • Computer Architecture • System Analysis & Design • Digital Thinking & Innovation • Artificial Intelligence
 
-**Key Areas**
-- Database creation and table management
-- Data organization
-- SQL query development
-- Filtering and aggregation
-- Music trend exploration
-- Relational database concepts
+### Level 2
 
----
+Data Management • Java OOP • Data Mining • Probability and Statistical Modelling • Data Structures • System Network Administration • System Design Methods
 
-### 🐍 Python Data Analysis
+### Exposure Areas
 
-A collection of Python-based data analysis exercises and projects focused on data manipulation and visualization.
-
-**Tools & Technologies**
-
-![Python](https://img.shields.io/badge/Python-E8DCCB?style=flat-square&logo=python&logoColor=3D332B)
-![Pandas](https://img.shields.io/badge/Pandas-B69B7D?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-D4C3AE?style=flat-square&logoColor=3D332B)
-
-**Key Areas**
-- Data cleaning
-- Data transformation
-- Exploratory Data Analysis
-- Statistical summaries
-- Data visualization
+Artificial Intelligence • Cloud Computing (AWS) • Data Analytics • Mobile & Web Technologies
 
 ---
 
-## 🧠 Areas of Interest
+<!-- =============================================== -->
+<!--                 FEATURED PROJECTS               -->
+<!-- =============================================== -->
 
-<p align="center">
+## Featured Projects
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-E8DCCB?style=flat-square&logoColor=3D332B)
-![Data Science](https://img.shields.io/badge/Data_Science-B69B7D?style=flat-square&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-D4C3AE?style=flat-square&logoColor=3D332B)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-E8DCCB?style=flat-square&logoColor=3D332B)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-B69B7D?style=flat-square&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database_Management-D4C3AE?style=flat-square&logoColor=3D332B)
+A collection of academic and independent projects demonstrating practical applications of technical and analytical skills.
 
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python for Data Analysis
-- 🗄️ Advanced SQL and Database Management
-- 📊 Power BI and Business Intelligence
-- 📈 Statistics and Analytical Methods
-- 🧠 Data Science Fundamentals
-- 🤖 Machine Learning Concepts
+| Project | Description | Technologies | Repository |
+|:--------|:------------|:-------------|:----------:|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ---
 
-## 🎓 Education
+<!-- =============================================== -->
+<!--                  CONNECT WITH ME                -->
+<!-- =============================================== -->
 
-### Asia Pacific University of Technology & Innovation (APU)
-
-**Bachelor of Science (Hons) in Computer Science**
-
-Specialization: **Data Analytics**
-
-📍 Kuala Lumpur, Malaysia
-
-**Relevant Areas of Study:**
-
-- Data Management
-- Artificial Intelligence
-- Data Structures
-- Programming
-- Database Systems
-- Computer Systems
-- System Analysis & Design
-- Networking
-- Research Methods
-
----
-
-## 📈 GitHub Stats & Metrics
-
-<!-- Contribution Activity Graph with Dark and Light Mode -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=211D19&color=E8DCCB&line=B69B7D&point=D4C3AE&area_color=8D7761&area=true&hide_border=true"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=F8F4EF&color=3D332B&line=B69B7D&point=8D7761&area_color=E8DCCB&area=true&hide_border=true"
-    >
-    <img
-      alt="Sufyan's Contribution Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=F8F4EF&color=3D332B&line=B69B7D&point=8D7761&area_color=E8DCCB&area=true&hide_border=true"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<!-- GitHub Stats Cards -->
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=sufyanb234&show_icons=true&hide_border=true&bg_color=211D19&title_color=E8DCCB&text_color=D4C3AE&icon_color=B69B7D"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=sufyanb234&show_icons=true&hide_border=true&bg_color=F8F4EF&title_color=3D332B&text_color=746454&icon_color=B69B7D"
-  >
-  <img
-    width="48%"
-    alt="Sufyan's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=sufyanb234&show_icons=true&hide_border=true&bg_color=F8F4EF&title_color=3D332B&text_color=746454&icon_color=B69B7D"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanb234&layout=compact&hide_border=true&bg_color=211D19&title_color=E8DCCB&text_color=D4C3AE"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanb234&layout=compact&hide_border=true&bg_color=F8F4EF&title_color=3D332B&text_color=746454"
-  >
-  <img
-    width="48%"
-    alt="Sufyan's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanb234&layout=compact&hide_border=true&bg_color=F8F4EF&title_color=3D332B&text_color=746454"
-  />
-</picture>
-
-</p>
-
-<!-- GitHub Streak -->
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=sufyanb234&hide_border=true&background=211D19&ring=B69B7D&fire=E8DCCB&currStreakNum=E8DCCB&currStreakLabel=D4C3AE&sideNums=D4C3AE&sideLabels=B69B7D&dates=8D7761"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=sufyanb234&hide_border=true&background=F8F4EF&ring=B69B7D&fire=8D7761&currStreakNum=3D332B&currStreakLabel=746454&sideNums=3D332B&sideLabels=746454&dates=8D7761"
-  >
-  <img
-    alt="Sufyan's GitHub Streak"
-    src="https://streak-stats.demolab.com?user=sufyanb234&hide_border=true&background=F8F4EF&ring=B69B7D&fire=8D7761&currStreakNum=3D332B&currStreakLabel=746454&sideNums=3D332B&sideLabels=746454&dates=8D7761"
-  />
-</picture>
-
-</p>
-
----
-
-## 🎯 My Development Journey
-
-```text
-       Computer Science
-              │
-              ▼
-    Programming Fundamentals
-              │
-       ┌──────┼──────┐
-       ▼      ▼      ▼
-     Python   C     SQL
-              │
-              ▼
-     Database Management
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-   PostgreSQL      MySQL
-              │
-              ▼
-        Data Analytics
-              │
-     ┌────────┼────────┐
-     ▼        ▼        ▼
-   Excel    Python   Power BI
-              │
-              ▼
-          Data Science
-              │
-       ┌──────┼──────┐
-       ▼      ▼      ▼
-   Statistics ML  Predictive
-                    Analytics
-              │
-              ▼
-       🎯 Data Scientist
-```
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/sufyanb234">
-  <img src="https://img.shields.io/badge/GitHub-sufyanb234-3D332B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-493126?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-sufyan-632968343/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Sufyan-B69B7D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-B86C4B?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </p>
 
----
+<br/>
+
+<!-- =============================================== -->
+<!--               INVERTED FOOTER BANNER            -->
+<!-- =============================================== -->
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
-</p>
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
-
-<p align="center">
-  Designed and maintained by <b>Sufyan Baig</b>
-  <br/>
-  <sub>Turning data into meaningful insights, one project at a time.</sub>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=F2D4AD&text=Sufyan%20Baig&fontColor=493126&fontSize=32&fontAlign=50&fontAlignY=75&animation=fadeIn"
+    width="100%"
+    alt="Sufyan Baig Footer Banner"
+  />
 </p>
