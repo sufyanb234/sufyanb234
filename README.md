@@ -1,38 +1,138 @@
-  <p><img src="https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png" alt="Profile_Banner_with_text_cutted_top"></p>
-<hr>
-<details align="middle">
-<summary>Open profile</summary>
-<br>
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=daenges&amp;label=Visits&amp;color=DD6387&amp;style=flat" alt="daenges"> </p>
-<hr>
-<br>
-<h3 align="center"><b>Languages:</b></h3><b>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> </p>
-<h3 align="center"><b>Hobby Projects:</b></h3><b>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"> </a>
-<br>
-<br>
-</p><hr>
-<details>
-<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&amp;show_icons=true&amp;theme=dracula&amp;locale=en&amp;layout=compact" alt="daenges"></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&amp;show_icons=true&amp;theme=dracula&amp;cache_seconds=1800&amp;locale=en" alt="daenges"> </p>
-<p><a href="https://github.com/Daenges"><img src="https://activity-graph.herokuapp.com/graph?username=daenges&amp;bg_color=282a36&amp;color=dd6387&amp;line=dd6387&amp;point=ffffff&amp;area=true&amp;hide_border=false" alt="Ashutosh's github activity graph"></a></p>
-</details>
-<hr>
-<details>
-<summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges"></a> </p>
-</details>
-<hr>
-<details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-<br>
-<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&amp;borderColor=white" alt="README Jokes">
-</p></details>
-</b></b></details><b><b>
-<hr>
-<p><img src="https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png" alt="Profile_Banner_with_text_cutted_bottom"></p>
-<hr>
-<p><a href="https://github.com/Daenges">Daenges</a></p></b></b> 
+# Hi there, I'm Mahyudeen Shahid! 👋
+
+<!-- Theme-Sensitive Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
+  <img alt="Mahyudeen Shahid Hero Banner" src="readmefile/dark.svg" width="100%">
+</picture>
+
+<br/>
+
+## 🚀 About Me
+I’m **Mahyudeen Shahid**, a Software Engineering student, **Full-Stack Web Developer**, and **React Native App Developer**. I build high-performance products that go well beyond simple landing pages — immersive, interactive web experiences powered by **GSAP, Framer Motion, Three.js, and Spline**, and cross-platform mobile apps for **Android and iOS** from a single React Native codebase.
+
+On the web I work with **React, Next.js, the MERN stack, and Supabase**, pairing creative frontend work with solid backend engineering to ship scalable full-stack solutions. On mobile I bring the same mindset to **React Native** — smooth animations, clean native-feeling UI, and shared business logic with my web projects. I’m also passionate about **AI and automation**, building AI agents and workflows with tools like **n8n**, and I’ve deployed applications across Netlify, Vercel, DigitalOcean, AWS, Google Cloud, Azure, and Hostinger.
+
+> 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
+
+- 🌐 **Web:** Full-stack apps with React, Next.js, Node.js & Supabase — with motion and 3D where it matters.
+- 📱 **Mobile:** Cross-platform Android & iOS apps with React Native.
+- 🤖 **AI & Automation:** AI agents and n8n workflows that remove repetitive work.
+- 🎓 **Education:** B.S. in Software Engineering, Pakistan.
+- 💬 **Ask me about:** Creative development, full-stack architectures, React Native apps, or automated AI agent workflows.
+- ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
+- 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D9488?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-34D399?style=flat-square&logo=python&logoColor=white)
+
+### 🖥️ Frontend & Creative
+![React](https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D9488?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-34D399?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-10B981?style=flat-square&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-0D9488?style=flat-square&logo=spline&logoColor=white)
+
+### 📱 Mobile App Development
+![React Native](https://img.shields.io/badge/React_Native-10B981?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0D9488?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-34D399?style=flat-square&logo=apple&logoColor=white)
+
+### ⚙️ Backend & API
+![Node.js](https://img.shields.io/badge/Node.js-34D399?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-10B981?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🗄️ Databases & BaaS
+![MongoDB](https://img.shields.io/badge/MongoDB-34D399?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D9488?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D9488?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-34D399?style=flat-square&logo=supabase&logoColor=white)
+
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-10B981?style=flat-square&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-34D399?style=flat-square&logo=google&logoColor=white)
+
+### ☁️ DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0D9488?style=flat-square&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-10B981?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0D9488?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-34D399?style=flat-square&logo=digitalocean&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-10B981?style=flat-square&logo=hostinger&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D9488?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🏅 Holopin Badges
+[![An image of @mahyudeenshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahyudeenshahid)](https://holopin.io/@mahyudeenshahid)
+
+---
+
+## 📈 GitHub Stats & Metrics
+
+<!-- Sleek contribution activity graph with theme sensitivity -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+  </picture>
+</p>
+
+<!-- Side-by-Side Stats Cards with theme sensitivity -->
+<p align="left">
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+  
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+</p>
+
+<!-- Streak Stats with theme sensitivity -->
+<p align="left">
+  <a href="https://mahyudeen.netlify.app" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
+    </picture>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you like this profile README, please consider leaving a star to show your support!</b> ⭐
+</p>
+
+---
+
+<p align="center">
+  Designed, thought, and developed with 💚 by <a href="https://mahyudeen.netlify.app/" target="_blank"><b>Mahyudeen Shahid</b></a><br/>
+  <sub>Every line of code crafted for immersive, interactive experiences — on the web and on mobile.</sub>
+</p>
