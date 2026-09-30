@@ -1,138 +1,280 @@
-# Hi there, I'm Mahyudeen Shahid! 👋
+# Hi there, I'm Sufyan Baig! 👋
 
-<!-- Theme-Sensitive Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Mahyudeen Shahid Hero Banner" src="readmefile/dark.svg" width="100%">
-</picture>
+<!-- Header Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sufyan%20Baig&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Analytics%20%7C%20Aspiring%20Data%20Scientist&descAlign=50&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="Sufyan Baig Header"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Aspiring+Data+Scientist;Turning+Data+Into+Useful+Insights"
+    alt="Typing SVG"
+  />
+</p>
 
 <br/>
 
 ## 🚀 About Me
-I’m **Mahyudeen Shahid**, a Software Engineering student, **Full-Stack Web Developer**, and **React Native App Developer**. I build high-performance products that go well beyond simple landing pages — immersive, interactive web experiences powered by **GSAP, Framer Motion, Three.js, and Spline**, and cross-platform mobile apps for **Android and iOS** from a single React Native codebase.
 
-On the web I work with **React, Next.js, the MERN stack, and Supabase**, pairing creative frontend work with solid backend engineering to ship scalable full-stack solutions. On mobile I bring the same mindset to **React Native** — smooth animations, clean native-feeling UI, and shared business logic with my web projects. I’m also passionate about **AI and automation**, building AI agents and workflows with tools like **n8n**, and I’ve deployed applications across Netlify, Vercel, DigitalOcean, AWS, Google Cloud, Azure, and Hostinger.
+I'm **Sufyan Baig**, a Computer Science student specializing in **Data Analytics** at **Asia Pacific University of Technology & Innovation (APU)** in Kuala Lumpur, Malaysia.
 
-> 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
+I'm focused on developing practical skills in **Data Analytics, Data Science, SQL, Python, database management, and data visualization**.
 
-- 🌐 **Web:** Full-stack apps with React, Next.js, Node.js & Supabase — with motion and 3D where it matters.
-- 📱 **Mobile:** Cross-platform Android & iOS apps with React Native.
-- 🤖 **AI & Automation:** AI agents and n8n workflows that remove repetitive work.
-- 🎓 **Education:** B.S. in Software Engineering, Pakistan.
-- 💬 **Ask me about:** Creative development, full-stack architectures, React Native apps, or automated AI agent workflows.
-- ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
-- 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
+I enjoy working with real-world datasets, cleaning and transforming data, writing SQL queries, identifying patterns, and building dashboards that turn raw data into meaningful insights.
+
+I'm continuously improving my skills in **Python, SQL, PostgreSQL, Power BI, Excel, SAS, and data visualization**, while building projects that strengthen my analytical and problem-solving abilities.
+
+My long-term goal is to build a professional career in **Data Science and Analytics**.
+
+> 💡 *"Data becomes valuable when it helps us understand, decide, and improve."*
+
+- 📊 **Data Analytics:** Data cleaning, exploration, visualization, and reporting
+- 🐍 **Programming:** Python, SQL, C
+- 🗄️ **Databases:** PostgreSQL, MySQL, pgAdmin
+- 📈 **Business Intelligence:** Power BI, Excel
+- 🧠 **Interests:** Data Science, Machine Learning, Business Intelligence & AI
+- 🎓 **Education:** BSc (Hons) Computer Science with specialization in Data Analytics
+- 🏫 **University:** Asia Pacific University of Technology & Innovation
+- 📍 **Location:** Kuala Lumpur, Malaysia
+- 🌱 **Currently Learning:** Advanced SQL, Python, Power BI & Data Science
+- 🎯 **Career Goal:** Data Scientist
+- 💼 **Open to:** Data Analytics / Data Science Internship Opportunities
+- ✉️ **Contact:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D9488?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-34D399?style=flat-square&logo=python&logoColor=white)
+### 💻 Programming & Query Languages
 
-### 🖥️ Frontend & Creative
-![React](https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D9488?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-34D399?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-10B981?style=flat-square&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-0D9488?style=flat-square&logo=spline&logoColor=white)
+![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D9488?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-34D399?style=flat-square&logo=c&logoColor=white)
 
-### 📱 Mobile App Development
-![React Native](https://img.shields.io/badge/React_Native-10B981?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D9488?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-34D399?style=flat-square&logo=apple&logoColor=white)
+### 📊 Data Analytics & Visualization
 
-### ⚙️ Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-34D399?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-10B981?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-10B981?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0D9488?style=flat-square&logo=powerbi&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-34D399?style=flat-square&logo=sas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-10B981?style=flat-square&logo=python&logoColor=white)
 
-### 🗄️ Databases & BaaS
-![MongoDB](https://img.shields.io/badge/MongoDB-34D399?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D9488?style=flat-square&logo=mysql&logoColor=white)
+### 🐍 Python Data Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-0D9488?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-34D399?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D9488?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-34D399?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D9488?style=flat-square&logo=mysql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-34D399?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🤖 AI & Automation
-![n8n](https://img.shields.io/badge/n8n-10B981?style=flat-square&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-34D399?style=flat-square&logo=google&logoColor=white)
+### 🧰 Development Tools
 
-### ☁️ DevOps & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D9488?style=flat-square&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-10B981?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0D9488?style=flat-square&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-34D399?style=flat-square&logo=digitalocean&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-10B981?style=flat-square&logo=hostinger&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D9488?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-10B981?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D9488?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-34D399?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## 🏅 Holopin Badges
-[![An image of @mahyudeenshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahyudeenshahid)](https://holopin.io/@mahyudeenshahid)
+## 📂 Featured Projects
+
+### 🚚 Supply Chain Shipping Delay Analysis
+
+**Identifying Key Drivers of Shipping Delays: A Data-Driven Supply Chain Analysis**
+
+A data analytics project focused on identifying factors that contribute to shipping delays using supply chain data.
+
+**Tools & Technologies**
+
+`Power BI` `Data Cleaning` `Data Visualization` `Supply Chain Analytics`
+
+**Key Areas**
+
+- Shipping delay analysis
+- Product category analysis
+- Department performance
+- Customer and order patterns
+- Geographic analysis
+- Interactive dashboards
+
+---
+
+### 🎵 Billboard Hot 100 SQL Analysis
+
+A SQL-based data analytics project analyzing music data from the **Billboard Hot 100**.
+
+**Tools & Technologies**
+
+`PostgreSQL` `SQL` `pgAdmin`
+
+**Key Areas**
+
+- Database creation
+- Data organization
+- SQL querying
+- Filtering
+- Aggregations
+- Music trend analysis
+- Exploratory analysis
+
+---
+
+### 🐍 Python Data Analysis
+
+Data analysis projects using Python to clean, transform, explore, and visualize datasets.
+
+**Tools & Technologies**
+
+`Python` `Pandas` `Matplotlib`
+
+**Key Areas**
+
+- Data cleaning
+- Data transformation
+- Exploratory Data Analysis
+- Statistical summaries
+- Data visualization
+
+---
+
+## 🧠 Areas of Interest
+
+<p align="center">
+
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-10B981?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data_Science-0D9488?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-34D399?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-10B981?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-0D9488?style=flat-square)
+![Database Management](https://img.shields.io/badge/Database_Management-34D399?style=flat-square)
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Advanced Python for Data Analysis
+- 🗄️ Advanced SQL
+- 📊 Power BI
+- 🧠 Data Science
+- 🤖 Machine Learning
+- 📈 Statistical Analysis
+
+---
+
+## 🎓 Education
+
+### Asia Pacific University of Technology & Innovation
+
+**BSc (Hons) Computer Science**
+
+Specialization in **Data Analytics**
+
+📍 Kuala Lumpur, Malaysia
+
+### Relevant Areas of Study
+
+- Data Management
+- Artificial Intelligence
+- Data Structures
+- Programming
+- Database Systems
+- Computer Systems
+- System Analysis & Design
+- Networking
+- Research Methods
 
 ---
 
 ## 📈 GitHub Stats & Metrics
 
-<!-- Sleek contribution activity graph with theme sensitivity -->
+<!-- Contribution Activity Graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
-    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true"
+    >
+    <img
+      alt="Sufyan's Contribution Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sufyanb234&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true"
+      width="100%"
+    />
   </picture>
 </p>
 
-<!-- Side-by-Side Stats Cards with theme sensitivity -->
-<p align="left">
-  <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
-  </picture>
-  
-  <!-- Top Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
-  </picture>
+<!-- GitHub Stats -->
+<p align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=sufyanb234&show_icons=true&hide_border=true&title_color=10B981&icon_color=34D399"
+  alt="Sufyan's GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanb234&layout=compact&hide_border=true&title_color=10B981"
+  alt="Sufyan's Top Languages"
+/>
+
 </p>
 
-<!-- Streak Stats with theme sensitivity -->
-<p align="left">
-  <a href="https://mahyudeen.netlify.app" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
-    </picture>
-  </a>
+<!-- GitHub Streak -->
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=sufyanb234&hide_border=true&ring=10B981&fire=34D399&currStreakLabel=0D9488"
+  alt="Sufyan's GitHub Streak"
+/>
+
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <b>If you like this profile README, please consider leaving a star to show your support!</b> ⭐
-</p>
+## 🎯 My Journey
 
----
-
-<p align="center">
-  Designed, thought, and developed with 💚 by <a href="https://mahyudeen.netlify.app/" target="_blank"><b>Mahyudeen Shahid</b></a><br/>
-  <sub>Every line of code crafted for immersive, interactive experiences — on the web and on mobile.</sub>
-</p>
+```text
+Computer Science
+       │
+       ▼
+Programming Fundamentals
+       │
+       ├── Python
+       ├── C
+       └── SQL
+       │
+       ▼
+Database Management
+       │
+       ├── PostgreSQL
+       └── MySQL
+       │
+       ▼
+Data Analytics
+       │
+       ├── Excel
+       ├── Python
+       ├── SAS
+       └── Power BI
+       │
+       ▼
+Data Science
+       │
+       ├── Statistics
+       ├── Machine Learning
+       └── Predictive Analytics
+       │
+       ▼
+🎯 Data Scientist
