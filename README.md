@@ -1,4 +1,3 @@
-
 <!-- =============================================== -->
 <!--                  HEADER BANNER                  -->
 <!-- =============================================== -->
@@ -50,7 +49,7 @@
 ### Data Analytics & Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-FFF1DC?style=flat-square&logo=powerbi&logoColor=493126)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-C68B59?style=flat-square&logo=googlesheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-C68B59?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-F2D4AD?style=flat-square&logoColor=493126)
 
 ### Python Libraries
@@ -69,7 +68,7 @@
 
 ![Git](https://img.shields.io/badge/Git-FFF1DC?style=flat-square&logo=git&logoColor=493126)
 ![GitHub](https://img.shields.io/badge/GitHub-493126?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-C68B59?style=flat-square&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-C68B59?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F2D4AD?style=flat-square&logo=jupyter&logoColor=493126)
 ![Linux](https://img.shields.io/badge/Linux-FFF1DC?style=flat-square&logo=linux&logoColor=493126)
 
@@ -103,15 +102,13 @@ Artificial Intelligence • Cloud Computing (AWS) • Data Analytics • Mobile 
 
 ## Featured Projects
 
-A collection of academic and independent projects demonstrating practical applications of technical and analytical skills.
+A selection of projects demonstrating practical experience in data analysis, business intelligence, database management, and data visualization.
 
 | Project | Description | Technologies | Repository |
 |:--------|:------------|:-------------|:----------:|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| **DataCo Supply Chain Analysis** | Data-driven analysis of supply chain operations focused on identifying the key factors associated with shipping delays and presenting operational patterns through interactive dashboards. | Power BI, Data Cleaning, Data Visualization, Supply Chain Analytics | [View Project](https://github.com/sufyanb234/Power-BI-DataCo-Supply-chain-analysis) |
+| **Retail Sales Analysis Dashboard** | Interactive retail analytics dashboard examining sales performance across regions, cities, shipping methods, customers, time periods, and product sub-categories. | Power BI, Excel, Data Modeling, Business Intelligence | [View Project](https://github.com/sufyanb234/Power-BI-Retail-Sales-Analysis) |
+| **Billboard Hot 100 SQL Analysis** | SQL-based analysis of Billboard Hot 100 music data using relational database techniques to explore artists, songs, rankings, and music trends through structured queries and aggregations. | PostgreSQL, SQL, pgAdmin, Data Analysis | [View Project](https://github.com/sufyanb234/Billboards-hot-100-SQL-analysis) |
 
 ---
 
@@ -120,8 +117,6 @@ A collection of academic and independent projects demonstrating practical applic
 <!-- =============================================== -->
 
 ## Connect With Me
-
-<br/>
 
 <p align="center">
 
@@ -143,7 +138,7 @@ A collection of academic and independent projects demonstrating practical applic
 
 <a href="mailto:Sufyanb234@gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-B86C4B?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Gmail-Sufyanb234%40gmail.com-B86C4B?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
   />
 </a>
@@ -158,6 +153,6 @@ A collection of academic and independent projects demonstrating practical applic
   <img
     src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=F2D4AD"
     width="100%"
-    alt="Beige Footer Banner"
+    alt="Footer Banner"
   />
 </p>
