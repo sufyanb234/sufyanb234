@@ -102,13 +102,14 @@ Artificial Intelligence • Cloud Computing (AWS) • Data Analytics • Mobile 
 
 ## Featured Projects
 
-A selection of projects demonstrating practical experience in data analysis, business intelligence, database management, and data visualization.
+A selection of projects demonstrating practical experience in data analysis, business intelligence, database management, data visualization, and Python-based analytical development.
 
 | Project | Description | Technologies | Repository |
 |:--------|:------------|:-------------|:----------:|
 | **DataCo Supply Chain Analysis** | Data-driven analysis of supply chain operations focused on identifying the key factors associated with shipping delays and presenting operational patterns through interactive dashboards. | Power BI, Data Cleaning, Data Visualization, Supply Chain Analytics | [View Project](https://github.com/sufyanb234/Power-BI-DataCo-Supply-chain-analysis) |
 | **Retail Sales Analysis Dashboard** | Interactive retail analytics dashboard examining sales performance across regions, cities, shipping methods, customers, time periods, and product sub-categories. | Power BI, Excel, Data Modeling, Business Intelligence | [View Project](https://github.com/sufyanb234/Power-BI-Retail-Sales-Analysis) |
 | **Billboard Hot 100 SQL Analysis** | SQL-based analysis of Billboard Hot 100 music data using relational database techniques to explore artists, songs, rankings, and music trends through structured queries and aggregations. | PostgreSQL, SQL, pgAdmin, Data Analysis | [View Project](https://github.com/sufyanb234/Billboards-hot-100-SQL-analysis) |
+| **Workout Recommendation Analysis** | Python-based exercise analysis and recommendation system that explores workout data and ranks exercises based on target muscle, equipment, body part, and secondary muscle preferences. | Python, Pandas, NumPy, Matplotlib, Jupyter | [View Project](https://github.com/sufyanb234/workout-recommendation-analysis) |
 
 ---
 
